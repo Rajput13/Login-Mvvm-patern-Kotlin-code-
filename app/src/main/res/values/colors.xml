@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="login_text">#ffffff</color>
+    <color name="live_text">#ffffff</color>
+    <color name="live_text_box">#3821314C</color>
+    <color name="live_box_focus">#922DA8B8</color>
+    <color name="live_sky">#96000000</color>
+    <color name="live_sky_text">#ffffff</color>
+    <color name="vod_highlight">#90000000</color>
+    <color name="vod_text">#ffffff</color>
+    <color name="tv_archive">#ffffff</color>
+    <color name="tv_archieve_text">#aba8a8</color>
+    <color name="settings_box">#1b234f</color>
+    <color name="settings_box_text">#ff000000</color>
+    <color name="movie_info_text">#fc8210</color>
+    <color name="movie_info_text1">#CCCCCC</color>
+    <color name="series_heading">#fc8210</color>
+    <color name="series_info_text1">#CCCCCC</color>
+
+    <!--color code for customisation-->
+
+
+    <!--color code for WHMCS client app -->
+    <color name="service_box_start">#41a7e6</color>
+    <color name="service_box_end">#56c9f1</color>
+
+    <color name="ticket_box_start">#f38a3d</color>
+    <color name="ticket_box_end">#da6e27</color>
+
+    <color name="suspended_box_start">#f0ad4e</color>
+    <color name="suspended_box_end">#c17202</color>
+
+    <color name="terminated_box_start">#ff0000</color>
+    <color name="terminated_box_end">#e62f2f</color>
+
+    <color name="active_box_start">#3fad46</color>
+    <color name="active_box_end">#388e3e</color>
+
+
+    <!--<color name="fraud_box_start">#00601b</color>-->
+    <!--<color name="fraud_box_end">#0a7127</color>-->
+    <color name="fraud_box_start">#cfb900</color>
+    <color name="fraud_box_end">#cfb900</color>
+    <color name="fraud_box_end1">#04D9F5</color>
+
+    <color name="paid_box_start">#7d952a</color>
+    <color name="paid_box_end">#91a93d</color>
+
+    <color name="unpaid_box_start">#cd2f2b</color>
+    <color name="unpaid_box_end">#d5413d</color>
+
+    <color name="cannel_box_start">#888888</color>
+    <color name="cannel_box_end">#b2b2b2</color>
+
+
+    <color name="refund_box_start">#224588</color>
+    <color name="refund_box_end">#43629c</color>
+
+    <color name="invoice_box_start">#ace144</color>
+    <color name="invoice_box_end">#8bb835</color>
+
+    <color name="invoice_box_pays">#ace144</color>
+    <color name="invoice_box_paye">#8bb835</color>
+    <color name="blue">#1c86c7</color>
+    <color name="light_blue">#4dade7</color>
+    <color name="green">#3f8028</color>
+    <color name="pink">#d651ee</color>
+
+
+    <color name="colorAccent">#343d46</color>
+    <color name="colorAccent1">#9e9494</color>
+    <color name="blue_color">#4f37e5</color>
+    <color name="iptvSmarters_grey">#2b292a</color>
+    <color name="fadedwhite">#E0E1E4</color>
+
+
+
+    <color name="yellow">#ffff00</color>
+    <color name="darker_grey">#DDDDDD</color>
+    <color name="light_black">#292c31</color>
+    <color name="dark_black">#202125</color>
+    <color name="dark_black2">#b0202125</color>
+    <color name="light_gray">#ffffff</color>
+    <color name="dark_gray">#6ec9c5c5</color>
+    <color name="dark_gray_nav">#6e9f9999</color>
+    <color name="logout_color">#474a4f</color>
+    <color name="add_funds_edit_text_bg">#e0e8ea</color>
+
+    <color name="dark_gray_selector">#ababab</color>
+
+    <string name="font_family_light">sans-serif-light</string>
+    <string name="font_family_medium">sans-serif-medium</string>
+    <string name="font_family_regular">sans-serif</string>
+    <string name="font_family_condensed">sans-serif-condensed</string>
+    <string name="font_family_black">sans-serif-black</string>
+    <string name="font_family_thin">sans-serif-thin</string>
+    <string name="font_family_bold">sans-serif-bold</string>
+
+    <color name="epg_background">#101f35</color>
+    <color name="epg_channel_layout_background">#9904404A</color>
+    <!--    <color name="epg_event_layout_background">#2A4878</color>-->
+    <color name="epg_event_layout_background">#070f1b</color>
+
+    <color name="epg_event_layout_background_current">#4d72ae</color>
+    <color name="epg_event_layout_background_selected">#fc8210</color>
+    <!--    <color name="epg_event_layout_background_no_prog">#9393af</color>-->
+    <color name="epg_event_layout_background_no_prog">#60676060</color>
+    <color name="epg_event_layout_text">#FFFFFF</color>
+    <color name="epg_time_bar">#fc8210</color>
+
+    <color name="tabslidecolor">#004d91</color>
+    <color name="service_status_terminated">#666666</color>
+    <color name="verify_password">#87ceeb</color>
+
+    <!--#f0f3f9-->
+
+    <color name="cart_list_item_color">#454545</color>
+    <color name="movie_info_play">#7dac2a</color>
+
+    <color name="accent">#FF5722</color>
+    <color name="primary">#F44336</color>
+
+    <color name="Grey_50">#FAFAFA</color>
+    <color name="Grey_100">#F5F5F5</color>
+    <color name="Grey_200">#EEEEEE</color>
+    <color name="Grey_300">#E0E0E0</color>
+    <color name="Grey_400">#BDBDBD</color>
+    <color name="Grey_500">#9E9E9E</color>
+    <color name="Grey_600">#757575</color>
+    <color name="Grey_700">#616161</color>
+    <color name="Grey_800">#424242</color>
+    <color name="Grey_900">#212121</color>
+    <color name="transparent">#00000000</color>
+    <color name="active_green">#88ce76</color>
+
+    <!--Announcement color-->
+    <color name="annoucement_blue">#FF0F5D8B</color>
+    <color name="annoucement_blue2">#4495C4</color>
+
+
+    <color name="black_overlay">#660000</color>
+
+    <color name="ijk_color_blue_main">@color/ijk_color_blue_500</color>
+    <color name="ijk_color_blue_50">#E3F2FD</color>
+    <color name="ijk_color_blue_100">#BBDEFB</color>
+    <color name="ijk_color_blue_200">#90CAF9</color>
+    <color name="ijk_color_blue_300">#64B5F6</color>
+    <color name="ijk_color_blue_400">#42A5F5</color>
+    <color name="ijk_color_blue_500">#2196F3</color>
+    <color name="ijk_color_blue_600">#1E88E5</color>
+    <color name="ijk_color_blue_700">#1976D2</color>
+    <color name="ijk_color_blue_800">#1565C0</color>
+    <color name="ijk_color_blue_900">#0D47A1</color>
+
+    <color name="ijk_transparent_dark">#770000</color>
+    <color name="trasparent_black">#cf000000</color>
+    <color name="trasparent_light">#84000000</color>
+    <color name="trasparent_light_2">#59000000</color>
+
+    <color name="trasparent_full">#00000000</color>
+
+    <color name="waveColor">#5999B9</color>
+
+
+    <color name="vw_BgToolBar">#373B3E</color>
+    <color name="vw_BgRv">#191919</color>
+    <color name="vw_BgItem">#353535</color>
+
+    <color name="vw_ShadowItem">#94333232</color>
+
+    <color name="vw_BgRvFileDivider">#EEEEEE</color>
+    <color name="purple">#975997</color>
+    <color name="purple2">#DE85ED</color>
+    <color name="series_tabs_background">#54434141</color>
+    <color name="purple_transparent">#3E975997</color>
+    <color name="white_trasparent">#9EFFFFFF</color>
+    <color name="seekbar_color">#6D66C0</color>
+
+    <color name="trasparent_black_2">#E1000000</color>
+
+
+
+    <!-- Queue -->
+    <color name="bg_item_normal_state">#fff0f0f0</color>
+    <color name="bg_item_upcoming_state">@color/primary</color>
+    <color name="bg_item_normal_pressed_state">#ffe0e0e0</color>
+    <color name="bg_item_playing_state">#ffaaaaaa</color>
+    <color name="bg_item_dragging_state">@color/bg_item_normal_state</color>
+    <color name="bg_item_dragging_active_state">#ffe0e0e0</color>
+    <color name="bg_item_swiping_state">@color/bg_item_normal_state</color>
+    <color name="bg_item_swiping_active_state">@color/bg_item_normal_state</color>
+
+    <color name="bg_group_item_normal_state">#ffddffdd</color>
+
+    <color name="bg_group_item_normal_pressed_state">#ff99cc99</color>
+    <color name="bg_group_item_expanded_state">#ff88dd88</color>
+    <color name="bg_group_item_expanded_pressed_state">#ff99cc99</color>
+    <color name="bg_group_item_dragging_state">#ffeeccff</color>
+    <color name="bg_group_item_dragging_active_state">#ffee99ff</color>
+    <color name="bg_group_item_swiping_state">#ffddccff</color>
+    <color name="bg_group_item_swiping_active_state">#ffbb99ff</color>
+
+    <color name="bg_swipe_item_neutral">#ffffffff</color>
+    <color name="bg_swipe_item_left">#fff9930d</color>
+    <color name="bg_swipe_item_right">#ffdb4437</color>
+    <color name="bg_swipe_group_item_left">#fff45f30</color>
+    <color name="bg_swipe_group_item_right">#ff295db3</color>
+
+    <color name="primary_dark">#0288D1</color>
+    <color name="primary_light">#B3E5FC</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#B6B6B6</color>
+    <color name="mini_upcoming_background">@color/primary</color>
+
+
+    <color name="button_grey">#E2353434</color>
+
+    <color name="hp_cyan">#006172</color>
+
+    <color name="hp_cyan_dark">#A64C02</color>
+
+    <color name="cat_search_background">#1b1b1b</color>
+    <color name="cat_left_background">#000000</color>
+    <color name="hp_cyan_light">#05A0BC</color>
+    <color name="hp_cyan_trans">#A64C02</color>
+
+    <color name="cat_search_background_live">#11141E</color>
+    <color name="dashboard_last_updated_color">#59121111</color>
+
+    <color name="green_status">#33A80A</color>
+    <color name="dashboard_sidebar">#262c36</color>
+
+    <color name="colorShimmer">#565D6A</color>
+    <color name="colorShimmerHighlight">#E6F5F4</color>
+    <color name="dashboard_sidebar_color">#94989e</color>
+    <!--Client FeedBack and Push Notification Colors (Start)-->
+    <color name="black2">#00FBF9F9</color>
+    <color name="notification_seen">#00FFFFFF</color>
+    <color name="notification_not_seen">#00FFFFFF</color>
+    <color name="notification_not_seen_focus">#802a3543</color>
+    <color name="off_white">#E1DEDE</color>
+    <color name="grey_color">#A368676B</color>
+    <color name="tran_maintance">#63000000</color>
+    <color name="client_report_parent_layout_bgcolor">#131313</color>
+    <color name="client_report_child_layout_bgcolor">#222222</color>
+    <color name="client_report_child_layout_selector">#454545</color>
+    <color name="client_report_title_text_color">#ACAAAA</color>
+    <color name="client_report_btn_focus">#343434</color>
+    <color name="blueinput">#11132c</color>
+    <color name="notification_not_read">#FFFFFF</color>
+    <color name="notification_background_color">#1d2139</color>
+    <color name="fade">#3D3C3A</color>
+
+</resources>
